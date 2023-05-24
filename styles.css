@@ -28,7 +28,7 @@ main{
 }
 .mensaje{
     background: rgb(183, 152, 216);
-    background-image: url("/Imagenes/muñeco.jpg" ) ;
+    background-image: url("Imagenes/muñeco.jpg" ) ;
     background-size: cover ;
     background-repeat: no-repeat;
     background-position-x: center;
